@@ -1,16 +1,42 @@
-# React + Vite
+# 📊 Sales Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **Sales Analytics Dashboard UI** built using **React 19** and **Tailwind CSS v4**.  
+This project focuses on clean UI, reusable components, and real-world dashboard layout used in SaaS products.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 https://datadashboard-rosy.vercel.app/
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- 📈 Revenue overview & growth indicators
+- 🧾 Sales, deals, value & win-rate cards
+- 👥 User-based performance tracking
+- 🧭 Sidebar navigation with reports
+- 🎨 Clean, modern & professional UI
+- 📱 Responsive (desktop-first)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **React.js (v19)**
+- **Vite**
+- **Tailwind CSS (v4)**
+- **@tailwindcss/vite**
+- **Lucide React** (icons)
+- **Recharts** (charts & graphs)
+- **clsx** (conditional class handling)
+- **tailwind-merge** (class optimization)
+- **Vercel** (deployment & CI/CD)
+
+---
+
+## 📦 Project Setup
+
+Clone the repository:
+```bash
+git clone https://github.com/Deepak-kant-singh/Dashboard.git
